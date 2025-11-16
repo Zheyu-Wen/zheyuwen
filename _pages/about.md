@@ -20,10 +20,10 @@ Hi~ I'm a Ph.D. candidate supervised by [Prof. George Biros](https://oden.utexas
 - Quantitative Researcher intern at PanAgora, 2024
 
 ## Awards
-  - _9/29/2025_: My first author paper published in the journal **Medical Image Analysis** got MICCAI MedIA best paper award! [[MedIA]](https://miccai.org/index.php/about-miccai/awards/medical-image-analysis-best-paper-award/)
+  - _9/29/2025_: My first author paper published in the journal Medical Image Analysis got **MICCAI MedIA best paper award**! [[MedIA]](https://miccai.org/index.php/about-miccai/awards/medical-image-analysis-best-paper-award/)
   - _9/24/2025_: My research was recognized by **Paul Navrátil Young Researcher Award**!
-  - _9/18/2024_: My first author paper published in **MICCAI** got shortlisted for MICCAI Best Paper and Young Scientist Award! [[MICCAI]](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_2)
-  - _11/20/2024_: My co-author paper published in **SC24: International Conference for High Performance Computing, Networking, Storage and Analysis** got Best Student Paper Finalist! [[SC24]](https://dl.acm.org/doi/10.1109/SC41406.2024.00057)
+  - _9/18/2024_: My first author paper published in MICCAI got shortlisted for **MICCAI Best Paper and Young Scientist Award**! [[MICCAI]](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_2)
+  - _11/20/2024_: My co-author paper published in SC24: International Conference for High Performance Computing, Networking, Storage and Analysis got **Best Student Paper Finalist**! [[SC24]](https://dl.acm.org/doi/10.1109/SC41406.2024.00057)
 
 
 ## Publications
