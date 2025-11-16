@@ -11,9 +11,9 @@ redirect_from:
 Hi~ I'm a Ph.D. candidate supervised by [Prof. George Biros](https://oden.utexas.edu/people/directory/george-biros/) at The University of Texas at Austin. My research interests are **computational biophysical modeling, inverse problem, graph neural network, representation learning and high performance computing**.
 
 ## Education
-- Ph.D. in The University of Texas at Austin, 2026 (expected)
-- M.S. in University of Michigan, Ann Arbor, 2021
-- B.S. in University of Electronic Science and Technology of China, 2019
+- Ph.D. in Computational Science Engineer, The University of Texas at Austin, 2026 (expected)
+- M.S. in Electrical and Computer Engineer, University of Michigan, Ann Arbor, 2021
+- B.S. in Communications Engineer, University of Electronic Science and Technology of China, 2019
 
 ## Internship
 - Software Engineer intern (Ph.D. Machine Learning) at Meta, 2025
