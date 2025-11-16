@@ -13,7 +13,7 @@ Hi~ I'm a Ph.D. candidate supervised by [Prof. George Biros](https://oden.utexas
 ## Education
 - Ph.D. in Computational Science Engineer, The University of Texas at Austin, 2026 (expected)
 - M.S. in Electrical and Computer Engineer, University of Michigan, Ann Arbor, 2021
-- B.S. in Communications Engineer, University of Electronic Science and Technology of China, 2019
+- B.S. in Electrical Engineer, University of Electronic Science and Technology of China, 2019
 
 ## Internship
 - Software Engineer intern (Ph.D. Machine Learning) at Meta, 2025
