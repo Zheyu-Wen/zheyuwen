@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I'm a Ph.D. candidate supervised by [Prof. George Biros](https://oden.utexas.edu/people/directory/george-biros/) at The University of Texas at Austin. My research interests are **computational biophysical modeling, inverse problem, graph neural network, representation learning and high performance computing**.
+Hi~ I got my Ph.D. degree supervised by [Prof. George Biros](https://oden.utexas.edu/people/directory/george-biros/) from The University of Texas at Austin. My research interests are **computational biophysical modeling, inverse problem, graph neural network, representation learning and high performance computing**.
 
 ## Education
 - Ph.D. in Computational Science Engineer, The University of Texas at Austin, 2026
